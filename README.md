@@ -4,3 +4,10 @@ testing convert_pydantic_to_openai_function (from langchain.utils.openai_functio
 tool(s) tested:
   Add
   args: list of int
+
+
+
+// toolRouting.ipynb -> LLM choosing the correct tool with required args
+tools available:
+  weather
+  wikipedia search
